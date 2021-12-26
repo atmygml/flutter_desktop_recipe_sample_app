@@ -1,0 +1,1 @@
+# flutter_desktop_recipe_sample_app
